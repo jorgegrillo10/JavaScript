@@ -1,0 +1,13 @@
+<html>
+<body>
+<script language='javascript'>
+// muestra numeros pares del 0 al 100
+var a=0;
+for (a=0;a<=100;a++)
+{
+ document.write('primer valor del bucle '+a+"<br>");
+a++;
+}
+</script>
+</body>
+</html>
