@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>Cursos www.technoinformatic.com</title>
+</head>
+<body bgcolor="yellow">
+ <center>
+ Mediante el siguiente boton imprimiremos la pagina web <br>
+ <form>
+ <input type="submit" value="Imprimir Pagina" onclick="javascript:window.print()">
+ <br>
+ </form>
+ <br>
+ o tambien podemos utilizar un link <br>
+ <br>
+ <a href="javascript:window.print()">Imprimir Pagina Web</a>
+ </center>
+</body>
+</html>
